@@ -1,0 +1,157 @@
+#id {
+   
+    font-size: 100%;
+    font-family: Candara;
+    border: 1 solid;
+    width: 200px;
+    height:40px;
+    margin: 0 auto;
+
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+
+#background{
+    background-image: url('Imagens/fundo-gojo.jpg')
+}
+
+
+#Strongest {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 180%;
+    text-align: center;
+}
+
+#UnlimitedVoid{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+#HollowPurple{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#falas{
+    font-size: 110%;
+    font-family: cursive;
+    border: 2px solid;
+    border-style: inherit;
+    width: 300px;
+    height:30px;
+    margin: 0 auto;
+}
+
+
+/*.sumario{
+    
+}*/
+#botao{
+background-color:black;
+ width: 100px;
+ height: 50px;
+ margin-left: 10px;
+ margin-right: 10px;
+ color: aliceblue;
+ ;
+}
+
+.borda{
+    border: 2px solid;
+    width: 170px;
+
+}
+
+h4{
+    font-size: 180%;
+    font-family: monospace;
+    margin-bottom: 1px;
+}
+ 
+a{
+    color: aliceblue;
+}
+
+.Gojovs{
+
+    margin-top: 50px;
+    text-align: center;
+}
+
+.centro{
+    text-align: center;
+}
+
+#exclamacao{
+    height: 20px;
+}
+
+.aviso{
+    border: 1px solid;
+    width: 630px;
+    margin: 0 auto;
+}
+.conteudo {
+   text-align: justify;
+   margin-top: 5%;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 5%;
+   background-color: white;
+  }  
+
+.conteudo2 {
+    margin-left: 5%;
+    margin-right: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: table;
+}
+
+.imagemDireita{
+    display: table-cell;
+    float: right;
+    margin-top: 5px;
+}
+
+.imagemEsquerda{
+    display: table-cell;
+    float: left;
+    margin-top: 5px; 
+    
+}
+
+.imagemAlinhada{
+    text-align: center;
+    padding-top: 30px;
+   
+}
+
+.imagemLado{
+    display: inline-block;
+}
+
+figcaption{
+    font-size: 12px;
+}
+
+.conteudo4{
+    display: table-cell;
+    float: right;
+    width: 750px;
+    margin-left: 5px;
+}
+
+.borda{
+    border: 2px solid;
+}
+
+.conteudo3{
+    display: table-cell;
+    float: left;
+    width: 750px;
+    margin-right: 20px;
+}
+
+
